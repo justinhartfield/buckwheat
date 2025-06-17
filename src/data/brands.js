@@ -4,14 +4,14 @@ export const brandsData = [
     id: "better-with-buckwheat",
     name: "Better with Buckwheat",
     slug: "better-with-buckwheat",
-    logo: "/src/assets/products/better-buckwheat-sea-salt.png",
+    logo: "/assets/products/better-buckwheat-sea-salt.png",
     founded: 2022,
     category: ["snacks", "crackers"],
     products: [
       {
         id: "sea-salt-crackers",
         name: "Sea Salt Crackers",
-        image: "/src/assets/products/better-buckwheat-sea-salt.png",
+        image: "/assets/products/better-buckwheat-sea-salt.png",
         description: "Naturally gluten-free buckwheat crisps with sea salt. Made from Maine-grown buckwheat for a wholesome, crunchy snack.",
         price: "$4.99",
         size: "4 oz",
@@ -27,7 +27,7 @@ export const brandsData = [
       {
         id: "everything-crackers",
         name: "Everything Crackers", 
-        image: "/src/assets/products/better-buckwheat-sea-salt.png",
+        image: "/assets/products/better-buckwheat-sea-salt.png",
         description: "Savory everything seasoning on buckwheat crisps for bold flavor",
         price: "$4.99",
         size: "4 oz"
@@ -35,7 +35,7 @@ export const brandsData = [
       {
         id: "rosemary-herbs",
         name: "Rosemary & Herbs",
-        image: "/src/assets/products/better-buckwheat-sea-salt.png", 
+        image: "/assets/products/better-buckwheat-sea-salt.png", 
         description: "Aromatic herbs and rosemary buckwheat crackers",
         price: "$4.99",
         size: "4 oz"
@@ -66,14 +66,14 @@ export const brandsData = [
     id: "bobs-red-mill",
     name: "Bob's Red Mill",
     slug: "bobs-red-mill",
-    logo: "/src/assets/products/bobs-red-mill-flour.jpg",
+    logo: "/assets/products/bobs-red-mill-flour.jpg",
     founded: 1978,
     category: ["flour", "cereal", "pancake-mix"],
     products: [
       {
         id: "organic-buckwheat-flour",
         name: "Organic Buckwheat Flour",
-        image: "/src/assets/products/bobs-red-mill-flour.jpg",
+        image: "/assets/products/bobs-red-mill-flour.jpg",
         description: "Stone-ground organic buckwheat flour for baking. Perfect for pancakes, bread, and gluten-free recipes.",
         price: "$6.49",
         size: "22 oz",
@@ -89,7 +89,7 @@ export const brandsData = [
       {
         id: "buckwheat-pancake-mix",
         name: "Buckwheat Pancake Mix",
-        image: "/src/assets/products/bobs-red-mill-flour.jpg",
+        image: "/assets/products/bobs-red-mill-flour.jpg",
         description: "Hearty pancake mix with organic buckwheat for nutritious breakfast",
         price: "$4.99",
         size: "18 oz"
@@ -97,7 +97,7 @@ export const brandsData = [
       {
         id: "creamy-buckwheat-cereal",
         name: "Creamy Buckwheat Cereal",
-        image: "/src/assets/products/bobs-red-mill-flour.jpg",
+        image: "/assets/products/bobs-red-mill-flour.jpg",
         description: "Hot breakfast cereal made from buckwheat groats",
         price: "$5.49",
         size: "18 oz"
@@ -128,14 +128,14 @@ export const brandsData = [
     id: "eden-foods",
     name: "Eden Foods",
     slug: "eden-foods",
-    logo: "/src/assets/products/eden-foods-soba.jpg",
+    logo: "/assets/products/eden-foods-soba.jpg",
     founded: 1968,
     category: ["pasta", "noodles"],
     products: [
       {
         id: "100-percent-buckwheat-soba",
         name: "100% Buckwheat Soba",
-        image: "/src/assets/products/eden-foods-soba.jpg",
+        image: "/assets/products/eden-foods-soba.jpg",
         description: "Traditional Japanese buckwheat noodles, 100% pure buckwheat with authentic flavor and texture.",
         price: "$3.99",
         size: "8 oz",
@@ -151,7 +151,7 @@ export const brandsData = [
       {
         id: "organic-buckwheat-soba",
         name: "Organic Buckwheat Soba",
-        image: "/src/assets/products/eden-foods-soba.jpg",
+        image: "/assets/products/eden-foods-soba.jpg",
         description: "Certified organic buckwheat soba noodles made with traditional methods",
         price: "$4.49",
         size: "8 oz"
@@ -182,14 +182,14 @@ export const brandsData = [
     id: "arrowhead-mills",
     name: "Arrowhead Mills",
     slug: "arrowhead-mills",
-    logo: "/src/assets/products/arrowhead-mills-cereal.jpg",
+    logo: "/assets/products/arrowhead-mills-cereal.jpg",
     founded: 1960,
     category: ["cereal", "flour"],
     products: [
       {
         id: "maple-buckwheat-flakes",
         name: "Maple Buckwheat Flakes",
-        image: "/src/assets/products/arrowhead-mills-cereal.jpg",
+        image: "/assets/products/arrowhead-mills-cereal.jpg",
         description: "Organic buckwheat flakes with natural maple sweetening for a nutritious breakfast cereal.",
         price: "$5.99",
         size: "10 oz",
@@ -228,14 +228,14 @@ export const brandsData = [
     id: "king-soba",
     name: "King Soba",
     slug: "king-soba",
-    logo: "/src/assets/products/eden-foods-soba.jpg",
+    logo: "/assets/products/eden-foods-soba.jpg",
     founded: 2000,
     category: ["pasta", "noodles"],
     products: [
       {
         id: "100-percent-buckwheat-noodles",
         name: "100% Buckwheat Noodles",
-        image: "/src/assets/products/eden-foods-soba.jpg",
+        image: "/assets/products/eden-foods-soba.jpg",
         description: "Pure buckwheat noodles, completely gluten-free with authentic Asian flavor.",
         price: "$4.99",
         size: "8.8 oz",
@@ -274,14 +274,14 @@ export const brandsData = [
     id: "great-river-milling",
     name: "Great River Organic Milling",
     slug: "great-river-organic-milling",
-    logo: "/src/assets/products/bobs-red-mill-flour.jpg",
+    logo: "/assets/products/bobs-red-mill-flour.jpg",
     founded: 1976,
     category: ["flour"],
     products: [
       {
         id: "organic-buckwheat-flour",
         name: "Organic Buckwheat Flour",
-        image: "/src/assets/products/bobs-red-mill-flour.jpg",
+        image: "/assets/products/bobs-red-mill-flour.jpg",
         description: "Artisanal stone-ground organic buckwheat flour with superior texture and flavor.",
         price: "$7.99",
         size: "2 lb",
