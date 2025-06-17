@@ -35,7 +35,7 @@ As the health and wellness trend continues to dominate consumer preferences, buc
     readTime: "8 min read",
     category: "Nutrition",
     tags: ["buckwheat", "nutrition", "gluten-free", "CPG", "health food"],
-    image: "/src/assets/products/buckwheat-nutrition.jpg",
+    image: "/assets/products/buckwheat-nutrition.jpg",
     featured: true
   },
   {
@@ -85,7 +85,7 @@ The future looks promising for buckwheat in the CPG space, with continued innova
     readTime: "10 min read",
     category: "Market Analysis",
     tags: ["CPG", "market analysis", "buckwheat industry", "consumer trends"],
-    image: "/src/assets/products/market-analysis.jpg",
+    image: "/assets/products/market-analysis.jpg",
     featured: true
   },
   {
@@ -143,7 +143,7 @@ The gluten-free buckwheat market continues to evolve, with brands developing rea
     readTime: "12 min read",
     category: "Gluten-Free Living",
     tags: ["gluten-free", "buckwheat products", "celiac disease", "healthy eating"],
-    image: "/src/assets/products/gluten-free-guide.jpg",
+    image: "/assets/products/gluten-free-guide.jpg",
     featured: false
   },
   {
@@ -205,7 +205,7 @@ Investment in sustainable buckwheat supply chains represents not just environmen
     readTime: "9 min read",
     category: "Sustainability",
     tags: ["sustainability", "farming", "environment", "supply chain"],
-    image: "/src/assets/products/sustainable-farming.jpg",
+    image: "/assets/products/sustainable-farming.jpg",
     featured: false
   },
   {
@@ -279,7 +279,7 @@ The success of these innovations demonstrates buckwheat's potential to move beyo
     readTime: "11 min read",
     category: "Innovation",
     tags: ["innovation", "product development", "food technology", "trends"],
-    image: "/src/assets/products/innovation-trends.jpg",
+    image: "/assets/products/innovation-trends.jpg",
     featured: false
   }
 ];
